@@ -1,8 +1,8 @@
 # Bienvenue dans l’atelier « Déboguer du CSS dans le navigateur »
 
 Vous pouvez voir le résultat attendu (une solution) en utilisant le lien « Voir l’objectif final » en bas de la page. Une fois ouvert, vous pouvez fermer l’onglet comme une bannière de cookies (pas d’inquiétude à ce sujet).
-[Vous pouvez télécharger l'exercice ici !]
-(https://github.com/PPaillard/HTML_CSS_Debug/archive/refs/heads/main.zip)
+
+[Vous pouvez télécharger l'exercice ici!](https://github.com/PPaillard/HTML_CSS_Debug/archive/refs/heads/main.zip)
 
 ## Résolvez l’exercice
 
